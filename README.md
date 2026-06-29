@@ -1,4 +1,4 @@
-# 🐯 Fortuna do Tigre — Fase 2 (Supabase Auth)
+# Roda da Fortuna — Fase 2 (Supabase Auth)
 
 ## Setup em 5 passos
 
